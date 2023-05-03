@@ -1,0 +1,55 @@
+
+@use "./styles/partials/variables" as *;
+@use "./styles/partials/mixins" as *;
+@use "./styles/partials/typography" as *;
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Avenir", Arial, Helvetica, sans-serif;
+}
+
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.modal img {
+  margin-bottom: 10px;
+}
+
+.modal p {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.hidden {
+  display: none;
+}
+
+.button {
+    display: block;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #f8d7da;
+    border: none;
+    border-radius: 0.25rem;
+    margin: 1rem auto;
+    cursor: pointer;
+  }
