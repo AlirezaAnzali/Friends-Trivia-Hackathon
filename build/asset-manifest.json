@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00b05794.css",
+    "main.js": "/static/js/main.771335fa.js",
+    "static/media/Ross.jpg": "/static/media/Ross.650880563d675a7cb01a.jpg",
+    "static/media/Central-Perk-Logo.png": "/static/media/Central-Perk-Logo.3e945f913f514d4b53cb.png",
+    "static/media/Poster.jpg": "/static/media/Poster.97e61df00c9dfb4539dd.jpg",
+    "static/media/3.jpg": "/static/media/3.22de077fd1adf603c632.jpg",
+    "static/media/5.jpg": "/static/media/5.4441df92ddd45d6f38c9.jpg",
+    "static/media/Chandler.jpg": "/static/media/Chandler.7b8ddf9254a14ee156da.jpg",
+    "static/media/4.jpg": "/static/media/4.57a4460213e719f68785.jpg",
+    "static/media/AvenirNextLTPro.ttf": "/static/media/AvenirNextLTPro.3f6c730b0f59f3838d71.ttf",
+    "static/media/AvenirNextLTProBold.ttf": "/static/media/AvenirNextLTProBold.3c6bf152ce9d23ec3657.ttf",
+    "static/media/Monica.jpg": "/static/media/Monica.054dbe79b12673ea529a.jpg",
+    "static/media/PermanentMarker-Regular.ttf": "/static/media/PermanentMarker-Regular.109a10dca0508e41aa12.ttf",
+    "static/media/0.jpg": "/static/media/0.25607836572f5e23f4fc.jpg",
+    "static/media/AvenirNextLTPro-Bold.otf": "/static/media/AvenirNextLTPro-Bold.abfbc7167526a2d9f205.otf",
+    "static/media/Joey.jpg": "/static/media/Joey.97f6864cca464a47f28d.jpg",
+    "static/media/AvenirNextLTPro-Regular.otf": "/static/media/AvenirNextLTPro-Regular.75d8c490a81ae1a6be46.otf",
+    "static/media/Rachel.jpg": "/static/media/Rachel.403472008e98f3390d7a.jpg",
+    "static/media/2.jpg": "/static/media/2.4f480548c91a9ee67eaf.jpg",
+    "static/media/1.jpg": "/static/media/1.ad54bdf9a6cd1771f2a9.jpg",
+    "static/media/friends.svg": "/static/media/friends.e72abc8e3c280d8e4ff15ce24b654e32.svg",
+    "static/media/Phoebe.jpg": "/static/media/Phoebe.982deac8b4374e13895f.jpg",
+    "index.html": "/index.html",
+    "main.00b05794.css.map": "/static/css/main.00b05794.css.map",
+    "main.771335fa.js.map": "/static/js/main.771335fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00b05794.css",
+    "static/js/main.771335fa.js"
+  ]
+}
